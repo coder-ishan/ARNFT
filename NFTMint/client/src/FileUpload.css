@@ -1,0 +1,31 @@
+.img{
+    height: 350px;
+    padding: auto;
+    margin: auto;
+}
+
+.btn {
+  height: 30px;
+  width: 80px;
+  user-select: none;
+  color: aliceblue;
+  -webkit-user-select: none;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #F082AC;
+}
+.choose{
+  
+  color:white
+}
+.transaction{
+  margin-bottom:35px;
+}
+.transaction>a{
+  color:white;
+}
+.img-ctr{
+ padding-right:30px ;
+}
